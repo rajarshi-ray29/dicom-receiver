@@ -1,0 +1,7 @@
+[submodule "example-dicom-structural"]
+    path = example-dicom-structural
+    url = https://github.com/datalad/example-dicom-structural
+
+[submodule "orthanc-builder"]
+    path = orthanc-builder
+    url = https://github.com/orthanc-server/orthanc-builder
