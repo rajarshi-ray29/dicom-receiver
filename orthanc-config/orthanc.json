@@ -1,0 +1,17 @@
+{
+  "Name": "Orthanc-First",
+  "RemoteAccessAllowed": true,
+  "AuthenticationEnabled": true,
+  "HttpServerEnabled": true,
+  "RegisteredUsers": {
+    "MyOrthancServer": "testing@123"
+  },
+  "DicomAet": "ORTHANC",
+  "DicomPort": 4242,
+  "HttpPort": 8042,
+  "HttpVerbose": true,
+  "DicomModalities": {},
+  "OrthancPeers": {}
+}
+
+
